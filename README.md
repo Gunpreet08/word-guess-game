@@ -26,7 +26,8 @@ python wordgame.py
 ```
 
 ## 📽️ Demo
-
+Watch the project in action:
+https://www.linkedin.com/posts/gunpreet-kaur-8a2728294_python-projects-beginnerprojects-activity-7450232160172621825-5bzv?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEdMcPoBRkJR1v2g8Ybz3otTno4pvKHSi8Y
 
 ## 💡 Learning Outcomes
 - Python logic building
